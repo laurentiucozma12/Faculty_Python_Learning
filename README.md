@@ -2,6 +2,10 @@
 
 - This project is just for learning purpose.
 
+## Homework
+
+- Play with [Google Ngrams](https://books.google.com/ngrams/)
+
 ## Resources
 
 - [Spacy](https://spacy.io/usage/spacy-101)
