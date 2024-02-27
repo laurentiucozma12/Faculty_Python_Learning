@@ -8,6 +8,6 @@
 
 ## Resources
 
-- [Spacy](https://spacy.io/usage/spacy-101)
 - [Python Tutorial for Beginners with VS Code 🐍](https://www.youtube.com/watch?v=6i3e-j3wSf0)
 - [How to Install SpaCy in Visual Studio Code | Spacy in VS Code (2023)](https://www.youtube.com/watch?v=6kSUfZRCuOg)
+- [Spacy](https://spacy.io/usage/spacy-101)
